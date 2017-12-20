@@ -21,3 +21,10 @@
 
 		Gives a graphical representation of all commits made in the
 		respective branches
+
+5.	What is the result of merging two branches together? 
+	Why do we represent it in the diagram the way we do?
+
+		All the commits becomes interlinear sorted by timestamps and
+		the merge becomes the most recent commit. The diagrammatic representation
+		helps keep track of the parent of each commit in their respective branch
