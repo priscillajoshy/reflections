@@ -11,4 +11,13 @@
 		which can be committed together as a logical unit. Helps to debug 
 		or even break down the code easily at a later point.
 
+3.	How can you use the staging area to make sure you have one commit 
+	per logical change?
 
+		Add all files having changes related to the logical change into
+		the staging area and commit it all together.
+
+4.	How do the diagrams help you visualize the branch structure?
+
+		Gives a graphical representation of all commits made in the
+		respective branches
