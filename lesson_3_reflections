@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 	There might be other developers collaborating with you making changes at the remote.
 	But you might not want their changes to be reflected on your local copy. It is more
 	convenient to manually choose only the branch you are working on.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks : when you want to use another user's repository and work on it collaboratively
+	clones : when you want to use another repository by yourself
+	branches : when you want to try an experimental feature
