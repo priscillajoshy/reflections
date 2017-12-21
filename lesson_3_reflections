@@ -23,3 +23,9 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	shared folder without version control is an option but it would be harder
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	When working on a new feature which is not safe to implement on the master yet.
+	This helps to experiment as much as you want without the risk of breaking the main code.
