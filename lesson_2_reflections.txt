@@ -28,3 +28,11 @@
 		All the commits becomes interlinear sorted by timestamps and
 		the merge becomes the most recent commit. The diagrammatic representation
 		helps keep track of the parent of each commit in their respective branch
+
+6.	What are the pros and cons of Git’s automatic merging vs. always doing 
+	merges manually?
+
+		Automatic risks conflicts without being resolved in the logical way. But it
+		has an advantage of not losing track of a branch incase you forget. Manual provides
+		the ability to resolve conflicts incorporating all changes from different branches.
+		But you can lose track of the entire branch if you forget to merge.
