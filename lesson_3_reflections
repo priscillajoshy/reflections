@@ -1,4 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
   While collaborating with others on a project. It would enable everybody's code to be
   unified in a common shared space.
 
@@ -18,3 +19,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	To make sure you are working locally on the most uptodate version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	shared folder without version control is an option but it would be harder
